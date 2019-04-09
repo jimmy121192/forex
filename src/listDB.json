@@ -1,0 +1,86 @@
+[
+    {
+        "code": "CAD",
+        "name": "Canadian Dollar",
+        "country": "Canada",
+        "symbol": "$",
+        "image": "https://image.flaticon.com/icons/svg/323/323277.svg"
+    },
+    {
+        "code": "USD",
+        "name": "US Dollar",
+        "country": "United States",
+        "symbol": "$",
+        "image": "https://image.flaticon.com/icons/svg/197/197484.svg"
+    },
+    {
+        "code": "GBP",
+        "name": "Pound sterling",
+        "country": "United Kingdom",
+        "symbol": "£",
+        "image": "https://image.flaticon.com/icons/svg/197/197374.svg"
+    },
+    {
+        "code": "EUR",
+        "name": "Euro",
+        "country": "European Union",
+        "symbol": "€",
+        "image": "https://image.flaticon.com/icons/svg/197/197615.svg"
+    },
+    {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "country": "Switzerland",
+        "symbol": "CHF",
+        "image": "https://image.flaticon.com/icons/svg/197/197540.svg"
+    },
+    {
+        "code": "CNY",
+        "name": "Chinese Yuan",
+        "country": "China",
+        "symbol": "¥",
+        "image": "https://image.flaticon.com/icons/svg/197/197375.svg"
+    },
+    {
+        "code": "JPY",
+        "name": "Japanese Yen",
+        "country": "Japan",
+        "symbol": "¥",
+        "image": "https://image.flaticon.com/icons/svg/197/197604.svg"
+    },
+    {
+        "code": "RUB",
+        "name": "Russian Rouble",
+        "country": "Russia",
+        "symbol": "₽",
+        "image": "https://image.flaticon.com/icons/svg/197/197408.svg"
+    },
+    {
+        "code": "BRL",
+        "name": "Brazilian Real",
+        "country": "Brazil",
+        "symbol": "R$",
+        "image": "https://image.flaticon.com/icons/svg/197/197386.svg"
+    },
+    {
+        "code": "PHP",
+        "name": "Philippine Peso",
+        "country": "Philippines",
+        "symbol": "₱",
+        "image": "https://image.flaticon.com/icons/svg/197/197561.svg"
+    },
+    {
+        "code": "SGD",
+        "name": "Singapore Dollar",
+        "country": "Singapore",
+        "symbol": "$",
+        "image": "https://image.flaticon.com/icons/svg/197/197496.svg"
+    },
+    {
+        "code": "THB",
+        "name": "Thai Baht",
+        "country": "Thailand",
+        "symbol": "฿",
+        "image": "https://image.flaticon.com/icons/svg/197/197452.svg"
+    }
+  ]
